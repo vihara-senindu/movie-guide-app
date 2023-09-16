@@ -9,7 +9,7 @@ Introducing our innovative Movie Guide App, a dynamic tool crafted using HTML, C
 ```bash
 
 # Clone this repository
-git clone https://github.com/viharasenindu/movieguideapp
+git clone https://github.com/vihara-senindu/movieguideapp
 
 ```
 ## Language & Technology Used 
@@ -20,4 +20,4 @@ git clone https://github.com/viharasenindu/movieguideapp
 - [Movie API](https://www.omdbapi.com/)
 
 ## Developer
-- [Creator](https://github.com/ViharaSenindu)
+- [Creator](https://github.com/Vihara-Senindu)
